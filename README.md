@@ -1,4 +1,4 @@
 # webomatic
 This is my website I made in 6th grade -
 
-[]([url](http://webomatic.glitch.me/))
+[http://webomatic.glitch.me/]([Thanks](http://webomatic.glitch.me/))
